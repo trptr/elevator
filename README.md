@@ -1,1 +1,1 @@
-# elevator
+# puzzles.elevator
